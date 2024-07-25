@@ -12,15 +12,27 @@ age (num)
 workclass (num)
 
 fnlwgt (num)
+
 education (categorical)
+
 education.num (categorical ordinal)
+
 marital.status (categorical)
+
 occupation (categorical)
+
 relationship (categorical)
+
 race (categorical)
+
 sex (categorical)
+
 capital.gain (num)
+
 capital.loss (num)
+
 hours.per.week (num)
+
 native.country (categorical)
+
 income (categorical)
